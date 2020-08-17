@@ -35,5 +35,8 @@
   },
   "devDependencies": {
     "json-server": "^0.16.1"
+  },
+  "engines": {
+    "node": "12.x"
   }
 }
